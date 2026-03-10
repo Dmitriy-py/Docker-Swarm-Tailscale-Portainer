@@ -1,6 +1,6 @@
 # Основа собрана Docker-Swarm-Tailscale-Portainer (недорого и сердито)
 
-### Tailscale своя сеть тунель:
+### Tailscale своя сеть туннель:
 
 <img width="1920" height="1080" alt="Снимок экрана (2953)" src="https://github.com/user-attachments/assets/2b559004-d9f0-477f-a38d-1c10bea91df5" />
 
