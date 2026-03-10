@@ -1,4 +1,4 @@
-# Основа собрана Docker-Swarm-Tailscale-Portainer (недорого и сердито)
+# Основа собрана Docker-Swarm+Tailscale+Portainer (недорого и сердито)
 
 ### Tailscale своя сеть туннель:
 
